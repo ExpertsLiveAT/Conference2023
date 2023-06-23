@@ -11,4 +11,8 @@ Anbei die von den Speakern zur Verfügung gestellten Unterlagen
   <tr>
     <td align="center" width="auto"><img src ="ELATAgenda2023.png" /></td>
   </tr>
+  <tr>
+    <td align="center" width="auto"><img src ="Attendees 2023.png" /></td>
+  </tr>
+  
 </table>
